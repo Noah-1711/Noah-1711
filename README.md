@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I’m a developer who has passion for building clean web applications with intuitive functionality.. I love exploring and learning new tech stack. 
+I’m a Developer who has passion for building clean web applications with intuitive functionality.I love exploring and learning new tech stack. 
 <br/>
 <br/>
 <p align="center">
@@ -16,7 +16,7 @@ I’m a developer who has passion for building clean web applications with intui
 ✔  🔭 &nbsp; I’m currently working on Web Development using React and Redux.
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about  HTML, CSS, JavaScript, React,Java<br>
-✔  📫 &nbsp;How to reach me, you can email me at [Gmail](noahnirmal11@gmail.com)<br>
+✔  📫 &nbsp;How to reach me, you can email me at [Gmail](mailto:noahnirmal11@gmail.com)<br>
 ✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/noahnirmal/),If I am alive I will answer within seconds 😉<br>
 ✔  📫 &nbsp; I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1QSQ4T7tpPunDcT0Wolx7HnijckS2hvPs/view?usp=drivesdk)
  <br>
