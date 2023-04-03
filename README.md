@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 😄 Pronouns: He/Him
+- 🔭 I'm Currently working on ReactJS
+- 💬 Ask me about JavaScript, Front-End Development
+- 📫 Connect with me: Check links👇🏻😊
