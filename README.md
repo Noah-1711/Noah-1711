@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I’m a Developer who has passion for building clean web applications with intuitive functionality.I love exploring and learning new tech stack. 
+I’m a Frontend Developer who has passion for building clean web applications with intuitive functionality.I love exploring and learning new tech stack. 
 <br/>
 <br/>
 <p align="center">
